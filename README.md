@@ -1,1 +1,2 @@
 # stepik_auto_chess
+stepik_auto_chess
